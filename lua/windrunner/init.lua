@@ -65,7 +65,7 @@ hl(0, "DiagnosticUnderlineHint", { bg = c.none, undercurl = true})
 -- Syntax
 hl(0, "Boolean", {fg = c.base04, bg = c.none})
 hl(0, "Character", {fg = c.base04, bg = c.none})
-hl(0, "Comment", {fg = c.pink, bg = c.none, italic = false})
+hl(0, "Comment", {fg = c.grey, bg = c.none, italic = false})
 hl(0, "Conceal", {fg = c.none, bg = c.none})
 hl(0, "Conditional", {fg = c.base04, bg = c.none})
 hl(0, "Constant", {fg = c.base04, bg = c.none})
