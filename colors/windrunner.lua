@@ -1,2 +1,2 @@
 package.loaded.windrunner = nil
-require [[windrunner]]
+require([[windrunner]])
